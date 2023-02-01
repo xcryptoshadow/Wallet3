@@ -1,4 +1,4 @@
-# A Secure Wallet for Web3
+# A Secure Wallet for Web3 Work
 
 Available on the App Store
 
